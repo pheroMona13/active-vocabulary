@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/active-vocabulary/static/css/main.e26f67a8.chunk.css",
+    "main.js": "/active-vocabulary/static/js/main.ca8240e4.chunk.js",
+    "main.js.map": "/active-vocabulary/static/js/main.ca8240e4.chunk.js.map",
+    "runtime-main.js": "/active-vocabulary/static/js/runtime-main.0aee4390.js",
+    "runtime-main.js.map": "/active-vocabulary/static/js/runtime-main.0aee4390.js.map",
+    "static/js/2.f4aa5786.chunk.js": "/active-vocabulary/static/js/2.f4aa5786.chunk.js",
+    "static/js/2.f4aa5786.chunk.js.map": "/active-vocabulary/static/js/2.f4aa5786.chunk.js.map",
+    "index.html": "/active-vocabulary/index.html",
+    "precache-manifest.12f9d438686f4870457be5a1b215b3cd.js": "/active-vocabulary/precache-manifest.12f9d438686f4870457be5a1b215b3cd.js",
+    "service-worker.js": "/active-vocabulary/service-worker.js",
+    "static/css/main.e26f67a8.chunk.css.map": "/active-vocabulary/static/css/main.e26f67a8.chunk.css.map",
+    "static/js/2.f4aa5786.chunk.js.LICENSE.txt": "/active-vocabulary/static/js/2.f4aa5786.chunk.js.LICENSE.txt",
+    "static/media/google-logo.png": "/active-vocabulary/static/media/google-logo.8fe6c732.png",
+    "static/media/translate-logo.png": "/active-vocabulary/static/media/translate-logo.30a8256f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aee4390.js",
+    "static/js/2.f4aa5786.chunk.js",
+    "static/css/main.e26f67a8.chunk.css",
+    "static/js/main.ca8240e4.chunk.js"
+  ]
+}
